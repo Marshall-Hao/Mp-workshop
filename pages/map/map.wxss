@@ -1,0 +1,4 @@
+map {
+  width: 100%; /* use all the width */
+  height: 100vh; /* automatically use 80% of the window height */
+}
